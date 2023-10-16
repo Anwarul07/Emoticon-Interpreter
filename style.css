@@ -1,0 +1,23 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  #divid {
+    color: blue;
+    border-width: 3px;
+    border-style: solid;
+    margin: 6px;
+    padding: 5px;
+    height: 40px;
+  } h4{
+    text-align:center;
+    color:blue;
+  }h3{
+    text-decoration:"uppercase";
+    color:red;
+  }
+  span{
+    color:green;
+  }
+  
+  
